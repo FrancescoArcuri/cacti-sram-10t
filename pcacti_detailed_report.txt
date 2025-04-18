@@ -1,0 +1,305 @@
+C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: 8.02976e-012 - 3.91342e-016 - 3.53243e-016 - 1.52643e-016
+dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: 8.02976e-012 - 0.08 - 3.91342e-016 - 0.8 - C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: 3.53243e-016 - 128 - 1
+1.52643e-0168.02976e-012
+dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 0.08 - 0.8 - 128 - 1
+C_ld : 7.01557e-016 - 
+g_tp.peri_global.Vdd: C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: 0.8
+3.91342e-016num_sa_subarray:  - 128
+C_ld : num_subarrays_per_mat: 1
+subarray.num_rows: 131072
+dp.num_subarrays: 1
+7.01557e-016dp.num_mats: 8.02976e-012
+1
+3.53243e-016 -  - g_tp.peri_global.Vdd:   uca->bank.mat.power_sa.readOp.dynamic: 3.91342e-016 - 0.8
+5.74716e-014num_sa_subarray: 
+3.53243e-016  dyn_p.num_act_mats_hor_dir: 1281.52643e-016
+ - 1
+
+num_subarrays_per_mat: 1.52643e-016C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 8.02976e-012 - 0.08 - 0.8 - 128 - 1
+C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: 3.91342e-016C_ld :  - 7.01557e-016
+C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: g_tp.peri_global.Vdd: 8.02976e-012 - 3.53243e-016 - 0.8
+1num_sa_subarray: 3.91342e-016C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux:  - 128
+8.02976e-0123.53243e-016 - 1.52643e-016num_subarrays_per_mat: 
+
+1dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 0.08 - 0.8 - 128 - 1
+C_ld : 7.01557e-016
+g_tp.peri_global.Vdd: 
+0.8
+num_sa_subarray: dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 128
+num_subarrays_per_mat: 1
+0.08subarray.num_rows:  - 131072
+0.8dp.num_subarrays: C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux:  - 1128
+ - 1dp.num_mats: 
+8.02976e-012C_ld : 7.01557e-016
+g_tp.peri_global.Vdd: 0.8
+num_sa_subarray: 128
+num_subarrays_per_mat: 1
+ - subarray.num_rows: 131072
+dp.num_subarrays: 1
+dp.num_mats: 1
+1.52643e-016
+C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 8.02976e-012
+0.08 -  - 3.91342e-0160.83.91342e-016 -  - subarray.num_rows: 128 - 1310721
+
+ - 3.53243e-016dp.num_subarrays: 8.02976e-0123.53243e-016 - C_ld :  - 1
+1.52643e-0167.01557e-016
+ - 
+dp.num_mats: 1g_tp.peri_global.Vdd: 
+dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat:  - 0.08 - 0.8 - 128 - 1
+3.91342e-016C_ld : C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux:  - subarray.num_rows: 131072
+7.01557e-016dp.num_subarrays: 
+1  uca->bank.mat.power_sa.readOp.dynamic: 8.02976e-012g_tp.peri_global.Vdd: 
+ - dp.num_mats: 1.52643e-0163.53243e-0161
+ - 3.91342e-0165.74716e-014
+ - 1.52643e-016
+C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 0.08 - 8.02976e-0120.8 -  - 128 -   uca->bank.mat.power_sa.readOp.dynamic: 1
+0.83.91342e-0165.74716e-014C_ld : 
+ - 
+  dyn_p.num_act_mats_hor_dir: C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: 7.01557e-0161
+
+8.02976e-0123.53243e-016
+ - g_tp.peri_global.Vdd:  - num_sa_subarray: 1.52643e-0160.80.8128
+
+
+
+  dyn_p.num_act_mats_hor_dir: num_sa_subarray: dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: num_subarrays_per_mat: 11
+3.91342e-016subarray.num_rows: C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: 131072
+
+0.081 -  - 3.91342e-0161288.02976e-012
+
+ - 3.91342e-016 - C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux: 3.53243e-016  uca->bank.mat.power_sa.readOp.dynamic: num_subarrays_per_mat:  - dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 1
+subarray.num_rows: 131072
+dp.num_subarrays: 1
+dp.num_mats: 1
+C_bl; 2 * C_drain_sense_amp_iso; C_sense_amp_latch; C_drain_sense_amp_mux:   uca->bank.mat.power_sa.readOp.dynamic: 8.02976e-012 - 5.74716e-014
+3.91342e-016  dyn_p.num_act_mats_hor_dir:  - 1
+3.53243e-016 - 1.52643e-016
+dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 0.08 - 0.8 - 128 - 1
+C_ld : 7.01557e-016
+g_tp.peri_global.Vdd: 0.8
+  uca->bank.mat.power_sa.readOp.dynamic: num_sa_subarray: 128
+num_subarrays_per_mat: 1
+subarray.num_rows: 131072
+5.74716e-014dp.num_subarrays: 
+1
+  dyn_p.num_act_mats_hor_dir: 1dp.num_mats: 
+1
+  uca->bank.mat.power_sa.readOp.dynamic: 5.74716e-014
+  dyn_p.num_act_mats_hor_dir: 1
+0.8 - 128 - 1
+ - C_ld : dp.num_subarrays: 7.01557e-016
+3.53243e-016g_tp.peri_global.Vdd:  - 1
+0.8dp.num_mats: 
+1.52643e-0161
+
+num_sa_subarray: 128dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 0.08 - 0.88.02976e-012 - 128 - 1
+ - C_ld : 7.01557e-016
+3.91342e-016g_tp.peri_global.Vdd:  - 0.8
+3.53243e-016num_sa_subarray:  - 128
+1.52643e-016num_subarrays_per_mat: 
+1dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 0.08 - 5.74716e-0140.8 - 128 - 1
+
+  dyn_p.num_act_mats_hor_dir: C_ld : 1
+7.01557e-016
+1.52643e-016g_tp.peri_global.Vdd: 0.8
+
+num_sa_subarray: dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 3.53243e-0160.08 -  - 0.8 - 128 - 1
+1.52643e-016
+dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 0.08 - 
+0.83.53243e-016 - 128 - 1
+ - C_ld : C_ld : 0.08 - 1.52643e-0167.01557e-0160.8
+ - dp.V_b_sense; g_tp.sram_cell.Vdd; subarray.num_cols; num_subarrays_per_mat: 0.08  uca->bank.mat.power_sa.readOp.dynamic:  - 0.8 - 128 - 1
+
+5.74716e-014
+C_ld : 128
+ - 7.01557e-016g_tp.peri_global.Vdd: 7.01557e-016
+
+128subarray.num_rows: g_tp.peri_global.Vdd: 
+  dyn_p.num_act_mats_hor_dir: 0.8num_sa_subarray: 1
+num_subarrays_per_mat: 
+1128
+131072g_tp.peri_global.Vdd: num_sa_subarray: 0.8
+
+0.8num_sa_subarray: dp.num_subarrays: 
+128
+1128
+
+num_sa_subarray: num_subarrays_per_mat: 128num_subarrays_per_mat: 1
+
+1
+num_subarrays_per_mat: dp.num_mats: subarray.num_rows: 11
+1310721
+
+
+
+dp.num_subarrays: 1  uca->bank.mat.power_sa.readOp.dynamic: 
+subarray.num_rows: dp.num_mats: num_subarrays_per_mat: 5.74716e-014C_ld : 
+1  dyn_p.num_act_mats_hor_dir: 131072
+
+1subarray.num_rows: 
+131072dp.num_subarrays: 
+subarray.num_rows: 1131072
+dp.num_subarrays: 
+1
+dp.num_subarrays: 1dp.num_mats: 
+dp.num_mats: 11dp.num_mats: 
+1
+
+num_subarrays_per_mat: 1  uca->bank.mat.power_sa.readOp.dynamic: 
+7.01557e-016  uca->bank.mat.power_sa.readOp.dynamic: subarray.num_rows: 
+1subarray.num_rows: 131072
+131072  uca->bank.mat.power_sa.readOp.dynamic: 
+
+dp.num_subarrays: 5.74716e-014
+dp.num_subarrays:   dyn_p.num_act_mats_hor_dir: 11
+
+dp.num_mats: 1
+  uca->bank.mat.power_sa.readOp.dynamic: 5.74716e-014
+  dyn_p.num_act_mats_hor_dir: 1
+g_tp.peri_global.Vdd: 0.8
+num_sa_subarray: 128
+5.74716e-014num_subarrays_per_mat: 1
+
+subarray.num_rows: 1310721
+  dyn_p.num_act_mats_hor_dir: 1dp.num_subarrays: 
+1
+
+  uca->bank.mat.power_sa.readOp.dynamic: dp.num_mats: 1
+dp.num_mats: 5.74716e-014  uca->bank.mat.power_sa.readOp.dynamic: 1
+
+  dyn_p.num_act_mats_hor_dir: 5.74716e-01415.74716e-014
+
+  uca->bank.mat.power_sa.readOp.dynamic:   dyn_p.num_act_mats_hor_dir: 
+1
+5.74716e-014
+  dyn_p.num_act_mats_hor_dir:   dyn_p.num_act_mats_hor_dir: 1
+1
+
+---------- P-CACTI, Uniform Cache Access SRAM Model ----------
+
+Cache Parameters:
+    Total cache size (bytes): 2097152
+    Number of banks: 1
+    Associativity: direct mapped
+    Block size (bytes): 128
+    Read/write Ports: 1
+    Read ports: 0
+    Write ports: 0
+    Technology size (nm): 14
+
+    Access time (ns): 650.634
+    Cycle time (ns):  898.856
+    Total dynamic read energy per access (nJ): 0.785145
+    Total dynamic write energy per access (nJ): 1.31132
+    Total leakage power of a bank (mW): 131.381
+    Precharge Energy (nJ): 0.131617
+    Cache height x width (mm): 19.337 x 0.0589548
+    Cache area (mm2): 1.14001
+
+    Best Ndwl : 1
+    Best Ndbl : 1
+    Best Nspd : 0.125
+    Best Ndcm : 1
+    Best Ndsam L1 : 1
+    Best Ndsam L2 : 1
+
+    Subarray - Number of rows: 131072
+    Subarray - Number of cols: 128
+    Data array, H-tree wire type: Global wires with 10% delay penalty
+
+Time Components:
+
+  Data side (with Output driver) (ns): 650.634
+	H-tree input delay (ns): 0
+	Decoder + Demux + Write Wordline delay (ns): 2.22405
+	Decoder + Demux + Read Wordline delay (ns): 1.8902
+	Bitline reading delay (ns): 508.835
+	Sense Amplifier delay (ns): 0.00782875
+	H-tree output delay (ns): 4.57778
+
+
+Power Components:
+
+  Data array: Total dynamic read energy/access  (nJ): 0.785145
+	Total leakage read/write power of a bank (mW): 131.381
+	Total energy in H-tree (that includes both address and data transfer) (nJ): 0
+	Output Htree Energy (nJ): 0
+	Decoder (nJ): 1.26142e-006
+	Write Wordline (nJ): 2.66729e-005
+	Read Wordline (nJ): 1.33365e-005
+	Bitline mux & associated drivers (nJ): 0
+	Sense amp mux & associated drivers (nJ): 0
+	Bitlines (nJ): 0.131574
+	Leakage power sram cell (nW): 4.58105
+	Sense amplifier energy (nJ): 5.74716e-005
+	Sub-array output driver (nJ): 0.647203
+
+
+Area Components:
+
+  Data array: Area (mm2): 1.14001
+	Height (mm): 19.337
+	Width (mm): 0.0589548
+	Area efficiency (Memory cell area/Total area) - 79.3291 %
+		MAT Height (mm): 19.337
+		MAT Length (mm): 0.0589548
+		Subarray Height (mm): 19.3028
+		Subarray Length (mm): 0.0589388
+
+Wire Properties:
+
+  Delay Optimal
+	Repeater size - 245.299 
+	Repeater spacing - 0.12638 (mm) 
+	Delay - 0.214517 (ns/mm) 
+	PowerD - 0.000475304 (nJ/mm) 
+	PowerL - 0.0042051 (mW/mm)
+	Wire width - 0.056 microns
+	Wire spacing - 0.056 microns
+
+  5% Overhead
+	Repeater size - 94.2991 
+	Repeater spacing - 0.22638 (mm) 
+	Delay - 0.225089 (ns/mm) 
+	PowerD - 0.00024551 (nJ/mm) 
+	PowerL - 0.00090246 (mW/mm)
+	Wire width - 0.056 microns
+	Wire spacing - 0.056 microns
+
+  10% Overhead
+	Repeater size - 79.2991 
+	Repeater spacing - 0.22638 (mm) 
+	Delay - 0.235343 (ns/mm) 
+	PowerD - 0.000233447 (nJ/mm) 
+	PowerL - 0.000758907 (mW/mm)
+	Wire width - 0.056 microns
+	Wire spacing - 0.056 microns
+
+  20% Overhead
+	Repeater size - 62.2991 
+	Repeater spacing - 0.22638 (mm) 
+	Delay - 0.256223 (ns/mm) 
+	PowerD - 0.00022013 (nJ/mm) 
+	PowerL - 0.000596214 (mW/mm)
+	Wire width - 0.056 microns
+	Wire spacing - 0.056 microns
+
+  30% Overhead
+	Repeater size - 66.2991 
+	Repeater spacing - 0.32638 (mm) 
+	Delay - 0.277897 (ns/mm) 
+	PowerD - 0.000216098 (nJ/mm) 
+	PowerL - 0.000440091 (mW/mm)
+	Wire width - 0.056 microns
+	Wire spacing - 0.056 microns
+
+  Low-swing wire (1 mm) - Note: Unlike repeated wires, 
+	delay and power values of low-swing wires do not
+	have a linear relationship with length. 
+	delay - 0.692902 (ns) 
+	powerD - 2.36167e-005 (nJ) 
+	PowerL - 2.25232e-007 (mW)
+	Wire width - 1.12e-007 microns
+	Wire spacing - 1.12e-007 microns
+
+
